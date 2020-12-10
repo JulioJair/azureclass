@@ -3,6 +3,7 @@
  <img width=200px height=200px src="https://githubcampus.expert/assets/images/ce-flag.png" alt="Project logo"></a>
 </p>
 
+<h1 align=center>https://zealous-water-0d4204610.azurestaticapps.net</h1>
 <h3 align="center">Vanilla JavaScript App</h3>
 
 <div align="center">
